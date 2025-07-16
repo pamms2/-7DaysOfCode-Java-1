@@ -18,7 +18,7 @@ Foi utilizada a OMDb API, que permite consultas públicas a dados de filmes, uti
 - Java 23
 - API OMDb
 
-### 🎥 Etapas
+### 🛠️ Etapas
 As etapas foram:
 - Criação manual de uma lista com os títulos dos 250 filmes mais bem avaliados;
 - Armazenamento da chave da API no arquivo ```apikey.txt``` (que está no ```.gitignore``` para não ser enviado ao repositório);
