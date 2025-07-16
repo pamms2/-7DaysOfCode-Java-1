@@ -1,6 +1,6 @@
-# 🎬 Top 250 Filmes - Busca via API
+# 🎬 Dia 1 - Top 250 Filmes - Busca via API
 
-Este projeto faz parte do #7DaysOfCode da Alura, com o tema “filmes”. <br>
+Este projeto faz parte do primeiro dia do #7DaysOfCode da Alura, com o tema “filmes”. <br>
 
 O desafio visa o aprendizado prático de como consumir APIs em Java, realizar requisições HTTP e processar as respostas.
 
